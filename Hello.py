@@ -1,8 +1,8 @@
 """
 CTEC 121
-<your name>
-<assignment/lab name>
-<assignment/lab description
+Esther Pisano
+repository Lab 3
+Hello World Lab
 """
 
 """ IPO template
